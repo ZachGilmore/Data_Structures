@@ -1,0 +1,16 @@
+C:\Users\zachg\OneDrive - Ozarks Technical Community College\Documents\Semesters\SP 22\Data Structures\Projects\TimeComplexities\TimeComplexities\bin\Debug\net5.0\TimeComplexities.exe
+C:\Users\zachg\OneDrive - Ozarks Technical Community College\Documents\Semesters\SP 22\Data Structures\Projects\TimeComplexities\TimeComplexities\bin\Debug\net5.0\TimeComplexities.deps.json
+C:\Users\zachg\OneDrive - Ozarks Technical Community College\Documents\Semesters\SP 22\Data Structures\Projects\TimeComplexities\TimeComplexities\bin\Debug\net5.0\TimeComplexities.runtimeconfig.json
+C:\Users\zachg\OneDrive - Ozarks Technical Community College\Documents\Semesters\SP 22\Data Structures\Projects\TimeComplexities\TimeComplexities\bin\Debug\net5.0\TimeComplexities.runtimeconfig.dev.json
+C:\Users\zachg\OneDrive - Ozarks Technical Community College\Documents\Semesters\SP 22\Data Structures\Projects\TimeComplexities\TimeComplexities\bin\Debug\net5.0\TimeComplexities.dll
+C:\Users\zachg\OneDrive - Ozarks Technical Community College\Documents\Semesters\SP 22\Data Structures\Projects\TimeComplexities\TimeComplexities\bin\Debug\net5.0\ref\TimeComplexities.dll
+C:\Users\zachg\OneDrive - Ozarks Technical Community College\Documents\Semesters\SP 22\Data Structures\Projects\TimeComplexities\TimeComplexities\bin\Debug\net5.0\TimeComplexities.pdb
+C:\Users\zachg\OneDrive - Ozarks Technical Community College\Documents\Semesters\SP 22\Data Structures\Projects\TimeComplexities\TimeComplexities\obj\Debug\net5.0\TimeComplexities.csproj.AssemblyReference.cache
+C:\Users\zachg\OneDrive - Ozarks Technical Community College\Documents\Semesters\SP 22\Data Structures\Projects\TimeComplexities\TimeComplexities\obj\Debug\net5.0\TimeComplexities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zachg\OneDrive - Ozarks Technical Community College\Documents\Semesters\SP 22\Data Structures\Projects\TimeComplexities\TimeComplexities\obj\Debug\net5.0\TimeComplexities.AssemblyInfoInputs.cache
+C:\Users\zachg\OneDrive - Ozarks Technical Community College\Documents\Semesters\SP 22\Data Structures\Projects\TimeComplexities\TimeComplexities\obj\Debug\net5.0\TimeComplexities.AssemblyInfo.cs
+C:\Users\zachg\OneDrive - Ozarks Technical Community College\Documents\Semesters\SP 22\Data Structures\Projects\TimeComplexities\TimeComplexities\obj\Debug\net5.0\TimeComplexities.csproj.CoreCompileInputs.cache
+C:\Users\zachg\OneDrive - Ozarks Technical Community College\Documents\Semesters\SP 22\Data Structures\Projects\TimeComplexities\TimeComplexities\obj\Debug\net5.0\TimeComplexities.dll
+C:\Users\zachg\OneDrive - Ozarks Technical Community College\Documents\Semesters\SP 22\Data Structures\Projects\TimeComplexities\TimeComplexities\obj\Debug\net5.0\ref\TimeComplexities.dll
+C:\Users\zachg\OneDrive - Ozarks Technical Community College\Documents\Semesters\SP 22\Data Structures\Projects\TimeComplexities\TimeComplexities\obj\Debug\net5.0\TimeComplexities.pdb
+C:\Users\zachg\OneDrive - Ozarks Technical Community College\Documents\Semesters\SP 22\Data Structures\Projects\TimeComplexities\TimeComplexities\obj\Debug\net5.0\TimeComplexities.genruntimeconfig.cache

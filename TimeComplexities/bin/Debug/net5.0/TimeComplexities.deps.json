@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TimeComplexities/1.0.0": {
+        "runtime": {
+          "TimeComplexities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TimeComplexities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
